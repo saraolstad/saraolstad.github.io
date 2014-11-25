@@ -113,13 +113,12 @@ body {
 .navbar-inverse .brand, .navbar-inverse .nav > li > a {
 	color: #000;
 	font-size: 18px;
-	font-family: Raleway;
-	font-weight: 400;
-	/*text-shadow: #d3d3d3 0.1em 0.1em 0.2em*/
+	font-family: Lato;
+	font-weight:700;
 }
 
 .navbar-inverse .brand, .navbar-inverse .nav > li > a:hover {
-	color: #4d4d4d;
+	color: #0088cc;
 }
 
 /* Social */
@@ -283,3 +282,9 @@ footer p {
 .navbar .btn-navbar {
 	display:none !important;
 }
+
+p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+}
+	

@@ -151,7 +151,7 @@ ul.social li p {
 
 .clip {
 	background:url('../img/portrait.jpg') no-repeat;
-  background-size:400px;
+  background-size:422px;
   background-position:-60px 0px;
   height:280px;
   width:280px;
@@ -180,9 +180,6 @@ ul.social li p {
 }
 
 .resume > .span4 > h2{
-	font-size: 22px;
-	font-weight:800;
-	line-height: 22px;
 	border-bottom: 1px solid #d3d3d3;
 }
 
@@ -287,4 +284,12 @@ p {
 	font-family: 'Lato', sans-serif;
 	font-weight: 100;
 }
-	
+
+.jobDescription {
+	font-weight: 100;
+	}
+
+li {
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+}

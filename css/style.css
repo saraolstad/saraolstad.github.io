@@ -186,11 +186,8 @@ ul.social li p {
 .resume > h3 {
 	/*background-color: #d3d3d3;*/
 	/*border: 1px dashed #fff;*/
-	color: #333;
-	width: 180px;
+	color: #0088cc;
 	margin: 0 0 30px 0;
-	font-weight: 100;
-	letter-spacing: 3px;
 }
 
 .place {
@@ -292,4 +289,9 @@ p {
 li {
 	font-family: 'Lato', sans-serif;
 	font-weight: 100;
+}
+
+.category {
+	font-family: 'Lato', sans-serif;
+	font-weight: 700;
 }

@@ -163,7 +163,7 @@ ul.social li p {
 }
 
 /* RESUME */
-#intro {
+.intro {
 	/*background-color: #000;*/
 	margin: 0 40px 0 0;
 	padding: 10px 5px 10px 5px;
@@ -209,7 +209,7 @@ footer p {
 	.clip {
 		display: none;
 	}
-	#intro {
+	.intro {
 		width: 90%;
 	}
 	.span4 {

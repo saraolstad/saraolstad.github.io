@@ -83,7 +83,9 @@ body {
 
 .subhead {
 	font-family: 'Lato', sans-serif;
-	font-weight: 400;
+	font-weight: 100;
+	font-size: 30px;
+	letter-spacing: 2px;
 }
 
 .span4 p {

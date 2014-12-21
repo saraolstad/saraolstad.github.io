@@ -58,7 +58,7 @@ body {
 }
 .row a:hover {
 	text-decoration: none;
-	color: #79CDCD;
+	color: #7F3D6E;
 }
 .span4 {
 	width: 28%;
@@ -120,7 +120,7 @@ body {
 }
 
 .navbar-inverse .brand, .navbar-inverse .nav > li > a:hover {
-	color: #6C345D;
+	color: #7F3D6E;
 }
 
 /* Social */
@@ -141,7 +141,7 @@ ul.social li a {
 }
 
 ul.social li a:hover {
-	color: #ececec;
+	color: #7F3D6E;
 }
 
 ul.social li p {

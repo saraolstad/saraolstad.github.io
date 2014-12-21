@@ -98,7 +98,6 @@ body {
 	font-weight: 100;
 	background-color: #bababa;
 	color: #fff; 
-	/*color: #ffc200; */
 	padding: 0 5px 0 5px; 
 	margin: 0 5px 0 0; 
 	letter-spacing: 1px;
@@ -121,7 +120,7 @@ body {
 }
 
 .navbar-inverse .brand, .navbar-inverse .nav > li > a:hover {
-	color: #0088cc;
+	color: #6C345D;
 }
 
 /* Social */
@@ -189,7 +188,7 @@ ul.social li p {
 .resume > h3 {
 	/*background-color: #d3d3d3;*/
 	/*border: 1px dashed #fff;*/
-	color: #0088cc;
+	color: #6C345D;
 	margin: 0 0 30px 0;
 }
 

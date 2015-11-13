@@ -74,7 +74,7 @@ body {
 
 .span4 h2 {
 	font-family: 'Lato', sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	border-bottom: 2px #d3d3d3 solid;
 	margin: 0 0 10px 0;
 	font-size: 20px;
@@ -83,19 +83,19 @@ body {
 
 .subhead {
 	font-family: 'Lato', sans-serif;
-	font-weight: 100;
+	font-weight: 300;
 	font-size: 30px;
 	letter-spacing: 2px;
 }
 
 .span4 p {
 	font-size: 16px;
-	font-weight: 200;
+	font-weight: 300;
 }
 
 .pub {
 	/*font-family: 'Lato', sans-serif;*/
-	font-weight: 100;
+	font-weight: 300;
 	background-color: #bababa;
 	color: #fff; 
 	/*color: #ffc200; */
@@ -147,7 +147,7 @@ ul.social li a:hover {
 
 ul.social li p {
 	font-family: 'Lato', sans-serif;
-	font-weight: 100;
+	font-weight: 300;
 	font-size: 20px;
 	display: inline;
 }
@@ -282,16 +282,16 @@ footer p {
 
 p {
 	font-family: 'Lato', sans-serif;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 .jobDescription {
-	font-weight: 100;
+	font-weight: 300;
 	}
 
 li {
 	font-family: 'Lato', sans-serif;
-	font-weight: 100;
+	font-weight: 300;
 }
 
 .category {

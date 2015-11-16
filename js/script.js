@@ -18,5 +18,5 @@ function fillPage(input) {
 }
 
 function footer() {
-	$('footer').append('<p>&copy; KK Rebecca Lai</p>');
+	$('footer').append('<p>&copy; Updated November 2015</p>');
 }
